@@ -1,0 +1,15 @@
+public class Main
+{
+	public static void main(String[] args) {
+		System.out.println("Hello World");
+	
+	    String name = "Manar";
+	
+	    int age = 17;
+	
+	    String about = "Hi My name is Manar and I am 17 years old";
+	
+	    System.out.println(about);
+	    }
+	    
+	}
